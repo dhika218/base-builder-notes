@@ -74,7 +74,7 @@ Day 35 - Understanding account abstraction and ERC4337
 
 Day 36 - Deployed fifth smart contract successfully
 
-
+Day 37 - Studied gas optimization techniques in Solidity
 
 
 
