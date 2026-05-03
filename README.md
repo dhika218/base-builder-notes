@@ -76,7 +76,7 @@ Day 36 - Deployed fifth smart contract successfully
 
 Day 37 - Studied gas optimization techniques in Solidity
 
-
+Day 38 - Exploring Base grant programs for builders
 
 
 
