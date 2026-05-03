@@ -94,7 +94,7 @@ Day 45 - Studying the future of Base and L2 ecosystem
 
 Day 46 - Exploring developer tools and SDKs on Base
 
-
+Day 47 - Learned about contract upgradability patterns
 
 
 
