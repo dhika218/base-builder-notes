@@ -62,7 +62,7 @@ Day 29 - Deployed fourth contract and tested functions
 
 Day 30 - Explored prediction markets on blockchain
 
-
+Day 31 - Learning about stablecoins and their mechanisms
 
 
 
