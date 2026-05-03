@@ -15,3 +15,5 @@ Day 5 - Understanding gas fees and how to optimize them
 Day 6 - Learned about ERC20 tokens and token standards
 
 Day 7 - Studied Solidity basics and contract structure
+
+Day 8 - Explored DeFi protocols on Base network
