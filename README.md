@@ -30,7 +30,7 @@ Day 13 - Learned about liquidity pools and AMMs
 
 Day 14 - Studying the Base roadmap and upcoming features
 
-
+Day 15 - Explored Coinbase and its role in Base ecosystem
 
 
 
