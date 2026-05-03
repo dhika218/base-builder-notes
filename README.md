@@ -78,7 +78,7 @@ Day 37 - Studied gas optimization techniques in Solidity
 
 Day 38 - Exploring Base grant programs for builders
 
-
+Day 39 - Learned about token vesting and lock mechanisms
 
 
 
