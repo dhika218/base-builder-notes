@@ -54,7 +54,7 @@ Day 25 - Halfway through my Base builder journey
 
 Day 26 - Explored yield farming strategies on Base
 
-
+Day 27 - Learned about oracles and off-chain data
 
 
 
