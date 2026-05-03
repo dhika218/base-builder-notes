@@ -90,7 +90,7 @@ Day 43 - Learned about on-chain identity solutions
 
 Day 44 - Deployed more contracts and gaining experience
 
-
+Day 45 - Studying the future of Base and L2 ecosystem
 
 
 
