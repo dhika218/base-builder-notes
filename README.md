@@ -44,7 +44,7 @@ Day 20 - Deployed third smart contract on Base
 
 Day 21 - Learned about decentralized storage solutions
 
-
+Day 22 - Exploring cross-chain bridges and interoperability
 
 
 
