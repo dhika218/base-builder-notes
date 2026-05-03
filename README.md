@@ -17,3 +17,5 @@ Day 6 - Learned about ERC20 tokens and token standards
 Day 7 - Studied Solidity basics and contract structure
 
 Day 8 - Explored DeFi protocols on Base network
+
+Day 9 - Learned about wallet security and best practices
