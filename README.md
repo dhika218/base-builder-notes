@@ -48,4 +48,16 @@ Day 22 - Exploring cross-chain bridges and interoperability
 
 Day 23 - Studied tokenomics and token distribution models
 
+Day 24 - Understanding DAOs and decentralized governance
+
+
+
+
+
+
+
+
+
+
+
 
