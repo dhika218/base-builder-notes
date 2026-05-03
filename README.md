@@ -52,7 +52,7 @@ Day 24 - Understanding DAOs and decentralized governance
 
 Day 25 - Halfway through my Base builder journey
 
-
+Day 26 - Explored yield farming strategies on Base
 
 
 
