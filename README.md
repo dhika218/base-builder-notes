@@ -82,5 +82,5 @@ Day 39 - Learned about token vesting and lock mechanisms
 
 Day 40 - Understanding flash loans and their use cases
 
-
+Day 41 - Studied MEV and its impact on transactions
 
