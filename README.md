@@ -66,7 +66,7 @@ Day 31 - Learning about stablecoins and their mechanisms
 
 Day 32 - Studied USDC and its role in Base ecosystem
 
-
+Day 33 - Exploring NFT marketplaces on Base network
 
 
 
