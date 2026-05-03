@@ -60,7 +60,7 @@ Day 28 - Studying Chainlink and price feed integrations
 
 Day 29 - Deployed fourth contract and tested functions
 
-
+Day 30 - Explored prediction markets on blockchain
 
 
 
