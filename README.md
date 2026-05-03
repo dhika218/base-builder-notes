@@ -50,7 +50,7 @@ Day 23 - Studied tokenomics and token distribution models
 
 Day 24 - Understanding DAOs and decentralized governance
 
-
+Day 25 - Halfway through my Base builder journey
 
 
 
