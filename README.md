@@ -96,7 +96,7 @@ Day 46 - Exploring developer tools and SDKs on Base
 
 Day 47 - Learned about contract upgradability patterns
 
-
+Day 48 - Understanding proxy contracts and storage slots
 
 
 
