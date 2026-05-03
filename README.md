@@ -98,5 +98,5 @@ Day 47 - Learned about contract upgradability patterns
 
 Day 48 - Understanding proxy contracts and storage slots
 
-
+Day 49 - Almost at 50 commits as a Base builder
 
