@@ -58,6 +58,17 @@ Day 27 - Learned about oracles and off-chain data
 
 Day 28 - Studying Chainlink and price feed integrations
 
+Day 29 - Deployed fourth contract and tested functions
+
+
+
+
+
+
+
+
+
+
 
 
 
