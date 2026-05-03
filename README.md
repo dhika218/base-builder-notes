@@ -26,4 +26,11 @@ Day 11 - Deployed second smart contract successfully
 
 Day 12 - Explored NFT standards ERC721 and ERC1155
 
+Day 13 - Learned about liquidity pools and AMMs
+
+
+
+
+
+
 
