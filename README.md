@@ -34,3 +34,10 @@ Day 15 - Explored Coinbase and its role in Base ecosystem
 
 Day 16 - Learned about Layer 2 scaling solutions
 
+Day 17 - Understanding Optimistic Rollups technology
+
+
+
+
+
+
