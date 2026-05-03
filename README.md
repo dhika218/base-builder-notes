@@ -88,7 +88,7 @@ Day 42 - Exploring Base native apps and dApps
 
 Day 43 - Learned about on-chain identity solutions
 
-
+Day 44 - Deployed more contracts and gaining experience
 
 
 
