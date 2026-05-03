@@ -70,5 +70,5 @@ Day 33 - Exploring NFT marketplaces on Base network
 
 Day 34 - Learned about multi-sig wallets and security
 
-
+Day 35 - Understanding account abstraction and ERC4337
 
