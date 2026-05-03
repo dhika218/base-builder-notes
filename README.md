@@ -13,3 +13,5 @@ Day 4 - Exploring the Base ecosystem and its projects
 Day 5 - Understanding gas fees and how to optimize them
 
 Day 6 - Learned about ERC20 tokens and token standards
+
+Day 7 - Studied Solidity basics and contract structure
