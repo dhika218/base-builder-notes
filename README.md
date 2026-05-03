@@ -80,7 +80,7 @@ Day 38 - Exploring Base grant programs for builders
 
 Day 39 - Learned about token vesting and lock mechanisms
 
-
+Day 40 - Understanding flash loans and their use cases
 
 
 
