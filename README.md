@@ -68,7 +68,7 @@ Day 32 - Studied USDC and its role in Base ecosystem
 
 Day 33 - Exploring NFT marketplaces on Base network
 
-
+Day 34 - Learned about multi-sig wallets and security
 
 
 
