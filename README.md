@@ -42,7 +42,7 @@ Day 19 - Explored on-chain data and how to read it
 
 Day 20 - Deployed third smart contract on Base
 
-
+Day 21 - Learned about decentralized storage solutions
 
 
 
