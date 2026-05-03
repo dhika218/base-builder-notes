@@ -84,3 +84,4 @@ Day 40 - Understanding flash loans and their use cases
 
 Day 41 - Studied MEV and its impact on transactions
 
+Day 42 - Exploring Base native apps and dApps
