@@ -100,3 +100,4 @@ Day 48 - Understanding proxy contracts and storage slots
 
 Day 49 - Almost at 50 commits as a Base builder
 
+Day 50 - Completed 50 days of building on Base blockchain
