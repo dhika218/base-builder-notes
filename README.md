@@ -56,7 +56,7 @@ Day 26 - Explored yield farming strategies on Base
 
 Day 27 - Learned about oracles and off-chain data
 
-
+Day 28 - Studying Chainlink and price feed integrations
 
 
 
