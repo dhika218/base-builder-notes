@@ -46,6 +46,6 @@ Day 21 - Learned about decentralized storage solutions
 
 Day 22 - Exploring cross-chain bridges and interoperability
 
-
+Day 23 - Studied tokenomics and token distribution models
 
 
