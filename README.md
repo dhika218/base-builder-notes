@@ -28,7 +28,7 @@ Day 12 - Explored NFT standards ERC721 and ERC1155
 
 Day 13 - Learned about liquidity pools and AMMs
 
-
+Day 14 - Studying the Base roadmap and upcoming features
 
 
 
