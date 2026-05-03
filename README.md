@@ -21,3 +21,5 @@ Day 8 - Explored DeFi protocols on Base network
 Day 9 - Learned about wallet security and best practices
 
 Day 10 - Understanding blockchain transactions and confirmations
+
+Day 11 - Deployed second smart contract successfully
