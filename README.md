@@ -40,4 +40,12 @@ Day 18 - Studied Web3 security and common vulnerabilities
 
 Day 19 - Explored on-chain data and how to read it
 
+Day 20 - Deployed third smart contract on Base
+
+
+
+
+
+
+
 
